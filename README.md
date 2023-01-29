@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # react-portfolio
 learned how to use react by building personal portfolio. used https://www.youtube.com/watch?v=x7mwVn2z3Sk as an example.
 
@@ -6,7 +6,7 @@ learned how to use react by building personal portfolio. used https://www.youtub
 yarn global add serve && serve -s build
 - Local:    http://localhost:3000        │
 - Network:  http://192.168.12.180:3000 
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
